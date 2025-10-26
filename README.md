@@ -1,6 +1,6 @@
 # Hello SLIIT - Kubernetes Demo Application 🎓
 
-A beautiful, containerized Node.js web application designed for Kubernetes workshops at SLIIT (Sri Lanka Institute of Information Technology).
+A beautiful, containerized Node.js web application designed for Kubernetes.
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -615,5 +615,3 @@ MIT License - Feel free to use this for educational purposes!
 ---
 
 **Happy Learning! 🚀🎓**
-#   K u b e r n e t e s - D e m o - A p p l i c a t i o n  
- 
